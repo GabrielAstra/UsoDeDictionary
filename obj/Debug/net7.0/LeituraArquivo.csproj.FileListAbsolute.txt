@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/bin/Debug/net7.0/LeituraArquivo
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/bin/Debug/net7.0/LeituraArquivo.deps.json
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/bin/Debug/net7.0/LeituraArquivo.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/bin/Debug/net7.0/LeituraArquivo.dll
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/bin/Debug/net7.0/LeituraArquivo.pdb
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.dll
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/refint/LeituraArquivo.dll
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.pdb
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/LeituraArquivo.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/LeituraArquivo/obj/Debug/net7.0/ref/LeituraArquivo.dll
